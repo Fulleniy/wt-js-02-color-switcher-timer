@@ -1,2 +1,3 @@
 # wt-js-02-color-switcher-timer
-Лабораторна робота 5: Асинхронність. Таймери. Дата та час.
+[Завдання](https://natalia-vitaliivna.gitbook.io/js-practice)
+
